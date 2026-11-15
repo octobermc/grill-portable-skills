@@ -1,0 +1,26 @@
+{
+  "name": "octobermc-grill-portable",
+  "owner": {
+    "name": "octobermc"
+  },
+  "metadata": {
+    "description": "One skills-only Cursor plugin. Component discovery is limited to cursor-plugins/grill-portable-skills. This marketplace does not publish the rest of mattpocock/skills, and it has no hooks, MCP servers, rules, agents, commands, or installer."
+  },
+  "plugins": [
+    {
+      "name": "grill-portable-skills",
+      "source": "cursor-plugins/grill-portable-skills",
+      "description": "Four reviewed text skills for grilling a plan, with optional glossary and decision records. All four are explicit-invocation only.",
+      "version": "1.0.0",
+      "license": "MIT",
+      "repository": "https://github.com/octobermc/grill-portable-skills",
+      "keywords": [
+        "skills",
+        "grill-me",
+        "grilling",
+        "grill-with-docs",
+        "domain-modeling"
+      ]
+    }
+  ]
+}

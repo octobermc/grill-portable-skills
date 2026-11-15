@@ -1,0 +1,23 @@
+{
+  "name": "grill-portable-skills",
+  "version": "1.0.0",
+  "description": "Skills-only portable adaptations of four Matt Pocock text skills. No hooks, rules, agents, commands, MCP servers, or scripts. Explicit-invocation only.",
+  "author": {
+    "name": "Matt Pocock"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/octobermc/grill-portable-skills",
+  "keywords": [
+    "skills",
+    "grill-me",
+    "grilling",
+    "grill-with-docs",
+    "domain-modeling"
+  ],
+  "skills": [
+    "./skills/grill-me",
+    "./skills/grilling",
+    "./skills/grill-with-docs",
+    "./skills/domain-modeling"
+  ]
+}
